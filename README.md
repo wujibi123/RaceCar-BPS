@@ -1,2 +1,2 @@
 ## RaceCar-BPS
-An introductory python and race car program for Boston public middle schoolers.
+An introductory 4 class python and mini race car program for Boston public middle schoolers.
